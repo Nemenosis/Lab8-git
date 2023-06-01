@@ -1,0 +1,21 @@
+li, span, strong{
+    color: aqua;
+}
+
+
+#test-paragraph-id{
+    color:brown;
+}
+
+.test-paragraph-class{
+    color: coral;
+}
+
+p{
+    color: blue;
+    font-size: 40px;
+}
+
+img{
+    border: 2px solid red;
+}
